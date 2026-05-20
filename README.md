@@ -32,3 +32,4 @@
 <br>
 <p>The result of the length of stay, and how many of them are international students: </p>
 <img src="images/top_length_of_stay.png">
+<p><h3>Note:</h3>The code is in code Folder, and table is csv file</p>
