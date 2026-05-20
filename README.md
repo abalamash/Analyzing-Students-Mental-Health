@@ -6,6 +6,8 @@
 <p></p>
 <p>The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.</p>
 <br>
+<p>Here is a data description of the columns you may find helpful.</p>
+<p>Field Name	                     Description</p>
 <ul>
   <li><b>inter_dom</b> => Types of students (international or domestic)</li>
   <li><b>japanese_cate</b> => Japanese language proficiency</li>
