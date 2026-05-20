@@ -27,3 +27,5 @@
 	
 	
 <p> We'll see if the length of stay for international students is a contributing factor to mental health difficulties</p>
+<p>Result of Number of stay, and how many of them are international students</p>
+<img src="images/top_length_of_stay.png">
